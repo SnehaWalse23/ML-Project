@@ -1,1 +1,1 @@
-## Student Performance Prediction System using Machine Learning
+## Student Performance indicator System using Machine Learning
