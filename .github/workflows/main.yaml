@@ -84,7 +84,7 @@ jobs:
       
       - name: Pull latest images
         run: |
-         docker pull 804210702441.dkr.ecr.ap-southeast-2.amazonaws.com/studentperformance
+         docker pull 804210702441.dkr.ecr.ap-southeast-2.amazonaws.com/studentperformance:latest
          
       # - name: Stop and remove  container if running
       #   run: |
